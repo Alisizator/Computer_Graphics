@@ -1,0 +1,11 @@
+﻿  MyOGL.cpp
+  OpenGLrememberProj.cpp
+  Render.cpp
+C:\Users\Alisizator\Desktop\grafika_lab2-master\OpenGLrememberProj\Render.cpp(14,1): warning C4005: PI: изменение макроопределения
+C:\Users\Alisizator\Desktop\grafika_lab2-master\OpenGLrememberProj\angle.h(5): message : см. предыдущее определение "PI"
+C:\Users\Alisizator\Desktop\grafika_lab2-master\OpenGLrememberProj\Render.cpp(113,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Alisizator\Desktop\grafika_lab2-master\OpenGLrememberProj\Render.cpp(113,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\Alisizator\Desktop\grafika_lab2-master\OpenGLrememberProj\Render.cpp(113,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+  Создание кода...
+C:\Users\Alisizator\Desktop\grafika_lab2-master\OpenGLrememberProj\Render.cpp(320): warning C4172: возвращение адреса локальной или временной переменной : tmp
+  OpenGLrememberProj.vcxproj -> C:\Users\Alisizator\Desktop\grafika_lab2-master\Debug\OpenGLrememberProj.exe
